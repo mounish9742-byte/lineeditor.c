@@ -1,20 +1,28 @@
-# lineeditor.c
-# Simple Line Editor in C
+# HackerRank 3rd Semester Portfolio
 
-A command-line text editor written in C that allows users to create, view, insert, and delete lines of text directly from the terminal.
+This repository contains my solutions to the 5 mandatory
+HackerRank problems completed as part of Portfolio Building
+Activity 8.
 
-## Features
+## HackerRank Profile
+[Your HackerRank Profile Link]
 
-- Insert a new line at a specific line number
-- Delete a line using its line number
-- Display the complete document with line numbers
-- Handles empty documents
-- Handles invalid line numbers
-- Simple menu-based command-line interface
+## Problems Solved
 
-## Data Structure
+| No. | Problem | Topic | Time | Space |
+|-----|---------|-------|------|-------|
+| 1 | Diagonal Difference | 2D Arrays | O(N) | O(1) |
+| 2 | Dynamic Array | Data Structures | O(N+Q) | O(N) |
+| 3 | Time Conversion | Strings | O(1) | O(1) |
+| 4 | Compare the Triplets | Arrays | O(1) | O(1) |
+| 5 | Sparse Arrays | Hash Maps | O(N+Q) | O(N) |
 
-The project uses an **array of strings** to store the document.
+## Skills Learned
 
-```c
-char lines[100][200];
+- Array manipulation
+- Matrix traversal
+- Dynamic arrays
+- String processing
+- Frequency counting
+- Time and space complexity
+- Algorithmic problem solving
